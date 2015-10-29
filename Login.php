@@ -1,3 +1,7 @@
+<?php
+echo "this is a mere test for graphite";
+
+?>
 <!DOCTYPE html>
 <html lang="en">
 
